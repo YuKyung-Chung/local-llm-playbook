@@ -1,0 +1,9 @@
+.obsidian/
+.trash/
+vectordb/
+logs/
+wheels/
+documents/
+.venv/
+__pycache__/
+*.pyc
